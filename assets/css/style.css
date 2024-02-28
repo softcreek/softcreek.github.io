@@ -499,6 +499,10 @@ section {
   padding-bottom: 30px;
 }
 
+.content h4 {
+  color: #37517e;
+}
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
