@@ -1771,3 +1771,14 @@ section {
     padding-top: 4px;
   }
 }
+
+/* Custom styles for the carousel */
+.carousel-item {
+  height: 640px;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
