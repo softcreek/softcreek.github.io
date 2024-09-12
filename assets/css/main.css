@@ -725,6 +725,10 @@ h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+
+  .hide-on-mobile {
+    display: none;
+  }
 }
 
 /*--------------------------------------------------------------
