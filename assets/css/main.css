@@ -570,6 +570,7 @@ h6 {
   font-size: 16px;
   color: rgba(var(--default-color-rgb), 0.8);
   margin-right: 10px;
+  margin-bottom: 12px;
   transition: 0.3s;
 }
 
